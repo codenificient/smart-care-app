@@ -32,7 +32,7 @@
     "@vitest/ui": "^3.2.4",
     "autoprefixer": "^10.4.19",
     "cypress": "^15.1.0",
-    "eslint": "^9.35.0",
+    "eslint": "^10.2.1",
     "eslint-config-next": "^15.5.2",
     "postcss": "^8.4.38",
     "tailwindcss": "^4.1.13",
